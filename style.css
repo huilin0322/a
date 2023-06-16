@@ -1,0 +1,30 @@
+/* 在CSS跟設定無關的都必須註解  */
+
+/* CSS選擇器 */
+.important-title {
+    /* color fontsize等等的叫屬性:值 */
+  color:#313c50;
+  font-size: 56px;
+  text-align: center;
+  font-weight: 700;
+  text-shadow: 2px 2px 2px #12060e;
+}
+
+.important-title2 {
+    font-size: 12px;
+
+}
+
+.section-title{
+    color:rgb(58, 83, 94);
+    font-size: 24px;
+}
+
+.row{
+    font-size: 36px;
+}
+
+
+.final{
+text-align: center;
+}
